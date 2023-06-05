@@ -1,0 +1,1 @@
+rootProject.name = "com.andreabonatti92.tictactoe"
